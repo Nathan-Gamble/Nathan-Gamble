@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: runs a guild in Throne and Liberty
+- ⚡ Fun fact: The kittens name is Mila
 
 <!---
 Nathan-Gamble/Nathan-Gamble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
